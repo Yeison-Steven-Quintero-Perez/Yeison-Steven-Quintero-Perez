@@ -1,7 +1,7 @@
 <!--
 CONFIG
 FULL_NAME: Yeison Steven Quintero Perez 
-GITHUB_USER: Yeison-Steven-Quintero-Perez
+GITHUB_USER: Yeison Steven Quintero Perez
 EMAIL: ysquintero-2025a@corhuila.edu.co
 CODE_ORGANIZATION: code-corhuila
 -->
