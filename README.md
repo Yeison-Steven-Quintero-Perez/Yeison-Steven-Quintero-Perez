@@ -17,7 +17,7 @@ CODE_ORGANIZATION: code-corhuila
 ## Perfil
 
 - Nombre: Yeison Steven Quintero Perez 
-- GitHub: [@aYeison-Steven-Quintero-Perez](https://github.com/arizajulian77)  
+- GitHub: [@Yeison-Steven-Quintero-Perez](https://github.com/arizajulian77)  
 - Email: [ysquintero-2025a@corhuila.edu.co](mailto:jdariza-2025a@corhuila.edu.co)  
 - Organización institucional: [code-corhuila](https://github.com/code-corhuila)
 
